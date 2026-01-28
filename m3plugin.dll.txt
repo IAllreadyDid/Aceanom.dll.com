@@ -1,0 +1,8 @@
+MyWebSearch.com
+1, 0, 3, 2
+Copyright © 2000, 2001, 2002, 2003
+MyWebSearch Idle Monitor
+m3Idle
+English (United States)
+m3Idle.dll
+1, 0, 3, 2

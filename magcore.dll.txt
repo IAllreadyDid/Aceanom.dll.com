@@ -1,0 +1,8 @@
+ArcSoft Inc.
+1.0.0.180
+ArcSoft Copyright (C) 2004
+MagCore
+MagCore
+English (United States)
+MagCore.dll
+1.0.0.180

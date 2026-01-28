@@ -1,0 +1,8 @@
+
+1.0.0.0
+
+TwainUI DLL
+TwainUI
+English (United States)
+TwainUI.DLL
+1.0.0.0

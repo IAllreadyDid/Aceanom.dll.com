@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.3.9600.16384 (winblue_rtm.130821-1623)
+© Microsoft Corporation. All rights reserved.
+E-mail Naming Shim Provider
+napinsp.dll
+English (United States)
+napinsp.dll
+6.3.9600.16384

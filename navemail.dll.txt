@@ -1,0 +1,8 @@
+Symantec Corporation
+9.05.1015
+Copyright (c) 2000-2002 Symantec Corporation. All rights reserved.
+Norton AntiVirus NAV Email
+NavEmail
+English (United States)
+NavEmail.dll
+9.05.1015

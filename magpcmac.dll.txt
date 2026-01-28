@@ -1,0 +1,8 @@
+ArcSoft Inc.
+1.0.0.156
+ArcSoft Copyright (C) 2006
+MagPCMac
+MagPCMac
+English (United States)
+MagPCMac.dll
+1.0.0.156

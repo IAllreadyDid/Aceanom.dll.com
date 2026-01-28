@@ -1,0 +1,9 @@
+MAGIX AG
+2.5.6.3
+Copyright (C) 2004 MAGIX AG, All right reserved.
+Online Services DLL
+Unicode Version (internal)
+2.5.6.3
+German (Germany)
+2.5.6.3
+2.5.6.3

@@ -1,0 +1,8 @@
+
+1, 0, 0, 1
+版权所有 (C) 2009
+MagicSkin DLL
+MagicSkin
+Chinese (PRC)
+MagicSkin.DLL
+1, 0, 0, 1

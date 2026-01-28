@@ -1,0 +1,8 @@
+ABBYY Software Ltd.
+11.0.2.127
+Copyright (C) 1993-2010 ABBYY.
+Unicode, code pages and languages support library
+LangInfo
+English (United States)
+LangInfo.dll
+11.0.2.127

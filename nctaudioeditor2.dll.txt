@@ -1,0 +1,8 @@
+Online Media Technologies Ltd.
+2,6,1,391
+Online Media Technologies Ltd.Copyright 2005
+NCTAudioEditor2 ActiveX DLL
+NCTAudioEditor2
+English (United States)
+NCTAudioEditor2.DLL
+2,6,1,391

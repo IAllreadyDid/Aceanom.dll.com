@@ -1,0 +1,8 @@
+ABBYY Software Ltd.
+10.0.1001.129
+Copyright (C) 1993-2009 ABBYY.
+Language information and character encoding tools
+LangInfo
+English (United States)
+LangInfo.dll
+10.0.1001.129
