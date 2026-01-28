@@ -1,0 +1,8 @@
+Intuit
+R007.000.000.001
+Copyright Intuit 1996
+RSA Encryption Utilities
+Q_ENUT16 RELEASE VERSION
+English (United States)
+
+7.0.0.1

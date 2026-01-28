@@ -1,0 +1,8 @@
+Microsoft Corporation
+7.7.9600.16384 (winblue_rtm.130821-1623)
+© Microsoft Corporation. All rights reserved.
+Background Intelligent Transfer Service
+qmgr.dll
+English (United States)
+qmgr.dll
+7.7.9600.16384

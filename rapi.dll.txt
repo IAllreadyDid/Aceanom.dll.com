@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.0.6000.16386 (vista_rtm.061101-2205)
+© Microsoft Corporation. All rights reserved.
+ActiveSync RAPI Backward Compatibility
+RAPI
+English (United States)
+rapi.dll
+6.0.6000.16386

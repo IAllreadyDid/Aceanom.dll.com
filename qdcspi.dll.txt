@@ -1,0 +1,8 @@
+Symantec Corporation
+4.51.0015
+Copyright © 1992-1999 Symantec Corporation
+Norton QDCSPI  Library
+QDCSPI
+English (United States)
+QDCSPI.dll
+4.5

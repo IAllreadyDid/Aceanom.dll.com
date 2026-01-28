@@ -1,0 +1,8 @@
+Progressive Networks, Inc.
+2.1.1.10
+Copyright © Progressive Networks, Inc. 1995, 1996
+Core Support Library for RealAudio®
+RACORE
+Swedish
+RAxx.DLL
+2.1.1.10

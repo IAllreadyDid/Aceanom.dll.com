@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.00.2195.6601
+Copyright (C) Microsoft Corp. 1981-1999
+RSVP Libary 1.0 DLL
+rapilib.dll
+English (United States)
+rapilib.dll
+5.00.2195.6601

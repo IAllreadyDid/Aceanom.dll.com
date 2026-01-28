@@ -1,0 +1,8 @@
+Progressive Networks, Inc.
+2.1.1.9
+Copyright © Progressive Networks, Inc. 1995, 1996
+High-level Support Library for RealAudio®
+RAGUI
+Swedish
+RAGUIxx.DLL
+2.1.1.9

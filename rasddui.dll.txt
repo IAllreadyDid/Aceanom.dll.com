@@ -1,0 +1,8 @@
+Microsoft Corporation
+4.00
+Copyright (C) Microsoft Corp. 1981-1996
+Raster Common Printer Driver UI DLL
+rasddui.dll
+English (United States)
+rasddui.dll
+4.00

@@ -1,0 +1,8 @@
+Trolltech AS
+3,3,1,1
+Copyright (C) 2003-2004 Trolltech
+Qt
+qt-enterprise
+English (United States)
+qt-mt331.dll
+3.3.1

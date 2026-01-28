@@ -1,0 +1,8 @@
+Alexander Roshal
+5.10.0
+Copyright © Alexander Roshal 1993-2014
+WinRAR shell extension
+WinRAR shell extension
+English (United States)
+RarExt.dll
+5.10.0

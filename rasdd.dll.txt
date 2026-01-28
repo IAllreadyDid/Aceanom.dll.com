@@ -1,0 +1,8 @@
+Microsoft Corporation
+4.00
+Copyright (C) Microsoft Corp. 1981-1996
+Raster Common Printer Driver DLL
+rasdd.dll
+English (United States)
+rasdd.dll
+4.00
