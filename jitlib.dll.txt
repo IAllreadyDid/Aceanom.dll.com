@@ -1,0 +1,8 @@
+Cycling '74
+7.0.0.f6a5768
+Copyright © Cycling '74 1990-2012
+Jitter
+jitlib
+English (United States)
+jitlib.dll
+7.0.0.f6a5768

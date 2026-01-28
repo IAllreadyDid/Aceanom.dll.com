@@ -1,0 +1,8 @@
+
+1, 0, 0, 1
+Copyright (C) 1998
+JpegDll DLL
+JpegDll
+English (United States)
+JpegDll.DLL
+1, 0, 0, 1

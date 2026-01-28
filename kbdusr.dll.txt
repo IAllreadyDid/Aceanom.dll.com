@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.1.7600.16385 (win7_rtm.090713-1255)
+© Microsoft Corporation. All rights reserved.
+Dvorak Right-Hand US English Keyboard Layout
+kbdusr (3.13)
+Language Neutral
+kbdusr.dll
+6.1.7600.16385

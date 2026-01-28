@@ -1,0 +1,8 @@
+Oracle Corporation
+8.0.600.27
+Copyright © 2015
+Java(TM) Platform SE binary
+jli
+Language Neutral
+jli.dll
+8.0.600.27

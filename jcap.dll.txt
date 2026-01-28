@@ -1,0 +1,8 @@
+Jasc Software, Inc.
+4,0,0,4
+Copyright © 1991-2001 Jasc Software, Inc.
+Jasc Screen Capture DLL
+JCAP
+English (United States)
+JCAP.DLL
+4,0,0,4

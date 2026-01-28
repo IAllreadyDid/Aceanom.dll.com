@@ -1,0 +1,8 @@
+Microsoft Corporation
+11.00.9600.17031 (winblue_gdr.140221-1952)
+© Microsoft Corporation. All rights reserved.
+Microsoft ® JScript
+jscript9.dll
+English (United States)
+jscript9.dll
+11.00.9600.17031

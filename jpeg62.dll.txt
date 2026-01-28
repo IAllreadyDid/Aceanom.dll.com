@@ -1,0 +1,8 @@
+Independent JPEG Group <www.ijg.org>
+6b.1961.25445
+© 2005 Independent JPEG Group <www.ijg.org>
+Jpeg: library and tools for JPEG images
+jpeg62
+English (United States)
+jpeg62.dll
+6b.1961.25445

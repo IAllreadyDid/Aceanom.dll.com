@@ -1,0 +1,8 @@
+Apple Inc.
+7536.30.0.2
+© 2013 Apple Inc. All rights reserved.
+JavaScriptCore.dll
+
+Language Neutral
+JavaScriptCore.dll
+

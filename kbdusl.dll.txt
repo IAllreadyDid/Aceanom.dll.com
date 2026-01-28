@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.3.9600.16384 (winblue_rtm.130821-1623)
+© Microsoft Corporation. All rights reserved.
+Dvorak Left-Hand US English Keyboard Layout
+kbdusl (3.13)
+Language Neutral
+kbdusl.dll
+6.3.9600.16384

@@ -1,0 +1,8 @@
+Sonic Solutions
+4.5.00.0128
+Copyright © 2002 Sonic Solutions
+ProductRegistration MFC Application
+ProductRegistration
+English (United States)
+ProductRegistration.EXE
+4, 5, 0, 00

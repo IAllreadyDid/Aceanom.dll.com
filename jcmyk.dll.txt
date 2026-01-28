@@ -1,0 +1,8 @@
+Jasc Software, Inc.
+3,0,0,1
+Copyright © 1997-2000 Jasc Software, Inc.
+Jasc CMYK Support DLL
+JCMYK
+English (United States)
+JCMYK.DLL
+3,0,0,1

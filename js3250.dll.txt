@@ -1,0 +1,8 @@
+Netscape Communications Corporation
+4.0
+Copyright Netscape Communications. 1994-96
+Netscape 32-bit JavaScript Module
+JS3240
+English (United States)
+js3240.dll
+4.0

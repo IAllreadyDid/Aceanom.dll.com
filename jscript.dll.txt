@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.8.9200.16859
+© Microsoft Corporation. All rights reserved.
+Microsoft ® JScript
+jscript.dll
+English (United States)
+jscript.dll
+5.8.9200.16859

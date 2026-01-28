@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.2.9200.16384 (win8_rtm.120725-1247)
+© Microsoft Corporation. All rights reserved.
+United States Keyboard Layout
+kbdus (3.13)
+Language Neutral
+kbdus.dll
+6.2.9200.16384
