@@ -1,0 +1,8 @@
+Creative Technology Ltd.
+1, 0, 1, 2
+Copyright (C) 2006
+P17Run Endpoints Dynamic Link Library
+P17RunE
+English (United States)
+P17RunE.dll
+1, 0, 1, 2

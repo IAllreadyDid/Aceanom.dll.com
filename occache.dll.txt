@@ -1,0 +1,8 @@
+Microsoft Corporation
+10.00.9200.16521 (win8_gdr_soc_ie.130216-2100)
+© Microsoft Corporation. All rights reserved.
+Object Control Viewer
+OCCACHE.DLL
+English (United States)
+OCCACHE.DLL
+10.00.9200.16521

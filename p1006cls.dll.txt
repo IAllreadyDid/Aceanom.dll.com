@@ -1,0 +1,8 @@
+TODO: <Company name>
+1.0.0.1
+TODO: (c) <Company name>.  All rights reserved.
+TODO: <File description>
+HPCleanPage.dll
+English (United States)
+HPCleanPage.dll
+1.0.0.1

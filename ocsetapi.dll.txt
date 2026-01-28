@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.3.9600.17031 (winblue_gdr.140221-1952)
+© Microsoft Corporation. All rights reserved.
+Windows Optional Component Setup API
+ocsetapi.dll
+English (United States)
+ocsetapi.dll
+6.3.9600.17031

@@ -1,0 +1,8 @@
+Oracle Corporation
+10.2.0.1.0
+
+Oracle Call Interface
+
+English (United States)
+Oci.dll
+

@@ -1,0 +1,8 @@
+Apple Inc.
+1,528,0.71,29
+Copyright (C) 2007-2009, Apple Inc.
+Objective-C Runtime Library
+objc4
+English (United States)
+objc.dll
+1,528,0.71,29

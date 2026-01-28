@@ -1,0 +1,8 @@
+VRYAD Development Group
+1, 0, 24, 7
+Copyright © Essential Reality 2002
+Interface to P5Device
+P5DLL.dll
+English (United States)
+P5DLL.dll
+1, 0, 24, 7
