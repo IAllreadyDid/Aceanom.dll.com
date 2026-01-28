@@ -1,0 +1,8 @@
+Intel Corporation
+6.14.10.5182
+Copyright 1999-2006, Intel Corporation
+hccutils Module
+HCCUTILS
+English (United States)
+HCCUTILS.DLL
+6.14.10.5182

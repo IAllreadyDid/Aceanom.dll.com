@@ -1,0 +1,8 @@
+Hauppauge Computer Works
+3.23.22266
+Copyright (c)1998-2004 Hauppauge Computer Works, Inc.
+Channel Editing Functionality
+hcwChannel
+English (United States)
+hcwChannel.DLL
+3.23.22266

@@ -1,0 +1,8 @@
+Intel Corporation
+6.14.10.4497
+Copyright (c) 1998-2004 Intel Corporation.
+Component GHAL Driver
+ialmdev5.dll
+English (United States)
+ialmdev5.dll
+6.14.10.4497

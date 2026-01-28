@@ -1,0 +1,8 @@
+Pinnacle Systems, Inc.
+4.5.8 (45)
+Copyright © 2001 Pinnacle Systems, Inc. All rights reserved.
+Hollywood FX Shared Class Library
+HfxClasses
+English (United States)
+HfxClasses45.dll
+4.5

@@ -1,0 +1,8 @@
+Hauppauge Computer Works
+3, 01, 24111 PCI-USB DVBT/S PVR
+Copyright © 1998-2005 Hauppauge Computer Works
+HCWTVWND PCI-USB DVBT/S PVR
+HCWTVWND
+English (United States)
+HCWTVWND.dll
+3, 01, 24111 PCI-USB DVBT/S PVR

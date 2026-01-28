@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.2.9200.16384 (win8_rtm.120725-1247)
+© Microsoft Corporation. All rights reserved.
+NPS NAP Provider
+IASNAP.DLL
+English (United States)
+IASNAP.DLL
+6.2.9200.16384

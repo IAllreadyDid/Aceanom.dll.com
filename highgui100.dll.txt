@@ -1,0 +1,8 @@
+Intel Corporation
+1, 0, 0, 1
+Copyright © 2002-2006
+Small GUI & Video library for OpenCV samples
+highgui100.dll
+English (United States)
+highgui100.dll
+1, 0, 0, 1
