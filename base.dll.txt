@@ -1,0 +1,8 @@
+AVAST Software
+9.0.2008.177
+Copyright (c) 2013 AVAST Software
+avast! English Basic Module
+Base1033
+English (United States)
+Base.dll
+9.0.2008.177

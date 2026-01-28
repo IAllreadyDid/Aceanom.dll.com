@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.3.9600.16384 (winblue_rtm.130821-1623)
+© Microsoft Corporation. All rights reserved.
+Microsoft® Cabinet File API
+cabinet.dll
+English (United States)
+cabinet.dll
+6.3.9600.16384

@@ -1,0 +1,8 @@
+Microsoft Corporation
+2001.12.6931.18000 (longhorn_rtm.080118-1840)
+© Microsoft Corporation. All rights reserved.
+COM+ Configuration Catalog Server
+catsrv.DLL
+English (United States)
+catsrv.DLL
+6.0.6001.18000

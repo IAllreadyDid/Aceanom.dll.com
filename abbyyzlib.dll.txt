@@ -1,0 +1,8 @@
+ABBYY
+1.0.35.0
+© 2008 ABBYY. All rights reserved.
+ABBYY Zlib component
+AbbyyZlib
+English (United States)
+AbbyyZlib.dll
+1.0.35.0

@@ -1,0 +1,8 @@
+Micro Focus
+VisualCOBOL-R7/215
+Copyright (C) Micro Focus 1984-2013. All rights reserved.
+Micro Focus Run Time System Core Support
+cblrtsm
+English (United States)
+cblrtsm.dll
+2.2.00151

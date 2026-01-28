@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.01.605.1
+Copyright © Microsoft Corp. 1995-1999
+Zone Game DLL - Cards
+cards.dll
+English (United States)
+cards.dll
+6.01.605.1

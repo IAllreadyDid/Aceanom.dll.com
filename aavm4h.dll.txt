@@ -1,0 +1,8 @@
+AVAST Software
+10.0.2208.712
+Copyright (c) 2014 AVAST Software
+avast! Asynchronous Virus Monitor (AAVM)
+Aavm32
+Language Neutral
+Aavm32.dll
+10.0.2208.712

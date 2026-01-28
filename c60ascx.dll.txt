@@ -1,0 +1,8 @@
+SoftVelocity Inc.
+6.100.9034
+Copyright (C) SoftVelocity Inc. 1997-2005
+Clarion 6.1 ASCII File Driver
+C60ASCX
+English (United States)
+
+6.100.9034

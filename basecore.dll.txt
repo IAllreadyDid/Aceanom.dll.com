@@ -1,0 +1,8 @@
+EdrawSoft
+6, 0, 0, 1888
+EdrawSoft. All rights reserved.
+Base Core
+BaseCore.dll
+English (United States)
+BaseCore.dll
+6, 0, 0, 1888

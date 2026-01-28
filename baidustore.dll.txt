@@ -1,0 +1,8 @@
+Baidu Inc.
+3,7,2,41769
+Copyright (C) 2012 Baidu, Inc. All rights reserved.
+PC Faster Interface Plugin Manager
+Baidu PC Faster
+English (United States)
+
+3,7,2,41769

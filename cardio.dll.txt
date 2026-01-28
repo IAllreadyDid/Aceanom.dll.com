@@ -1,0 +1,8 @@
+Brother Industries, Ltd.
+3, 0, 0, 1
+Copyright (C) 2003 Brother Industries, Ltd.
+CardIO DLL
+CardIO
+English (United States)
+CardIO.DLL
+3, 0, 0, 1

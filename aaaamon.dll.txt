@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.1.2600.0 (xpclient.010817-1148)
+© Microsoft Corporation. All rights reserved.
+Aaaa Monitor DLL
+aaaamon.dll
+English (United States)
+aaaamon.dll
+5.1.2600.0

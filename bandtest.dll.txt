@@ -1,0 +1,8 @@
+Westwood  Studios
+1, 0, 0, 0
+Copyright © 2002
+BandTest
+BandTest
+English (United States)
+BandTest.dll
+1, 0, 0, 0

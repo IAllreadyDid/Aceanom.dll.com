@@ -1,0 +1,8 @@
+Microsoft Corporation
+2, 1, 0, 2
+Copyright (c) 1999-2006 Microsoft Corporation
+CAPICOM Module
+CAPICOM
+English (United States)
+CAPICOM.DLL
+2, 1, 0, 2

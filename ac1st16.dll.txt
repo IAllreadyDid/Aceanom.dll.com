@@ -1,0 +1,8 @@
+Autodesk, Inc.
+16.0.0.86
+Copyright (c) 1982-2003 by Autodesk, Inc.
+ac1st16.dll
+ac1st16.dll
+English (United States)
+ac1st16.dll
+16.0.0.86

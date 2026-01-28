@@ -1,0 +1,8 @@
+Aureal Semiconductor
+2.02
+Copyright © 1996-1998 Aureal Semiconductor
+Aureal A3D API DLL
+A3DAPI
+English (United States)
+a3dapi.dll
+2.02

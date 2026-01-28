@@ -1,0 +1,8 @@
+
+1, 0, 0, 1
+Copyright 2001 Wizet, ZMS
+Canvas Module
+Canvas
+English (United States)
+Canvas.DLL
+1, 0, 0, 1

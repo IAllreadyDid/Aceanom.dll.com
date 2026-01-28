@@ -1,0 +1,8 @@
+Ulead Systems, Inc.
+8.5.0.0
+Copyright (c) 1992-2003. Ulead Systems, Inc. All rights reserved.
+Bar DLL
+Bar
+English (United States)
+Bar.DLL
+8.5.0.0

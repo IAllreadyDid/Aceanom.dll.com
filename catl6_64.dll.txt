@@ -1,0 +1,8 @@
+Abvent R&D
+6.0.2.2
+Copyright (c) Abvent R&D 2005-2015
+Atl Library 64 bits
+CAtl
+Language Neutral
+CAtl6_64.dll
+6.0.2.2
