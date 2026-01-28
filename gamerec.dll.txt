@@ -1,0 +1,8 @@
+RSUPPORT
+1.0.0.6
+Copyright(C) 2001-2013 RSUPPORT Co., Ltd. All Rights Reserved.
+liteCam Game SDK
+GameRec.dll
+Korean
+GameRec.dll
+1.0.0.6

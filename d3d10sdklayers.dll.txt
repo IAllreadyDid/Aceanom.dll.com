@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.30.9200.16384
+© Microsoft Corporation. All rights reserved.
+Direct3D 10.1 SDK Layers
+D3D10SDKLayers.dll
+English (United States)
+D3D10SDKLayers.dll
+9.30.9200.16384

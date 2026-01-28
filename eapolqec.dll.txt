@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.1.2600.5512 (xpsp.080413-0852)
+© Microsoft Corporation. All rights reserved.
+Microsoft EAPOL NAP Enforcement Client
+EapolQec.dll
+English (United States)
+EapolQec.dll
+5.1.2600.5512

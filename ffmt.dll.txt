@@ -1,0 +1,8 @@
+Digidesign, A Division of Avid Technology, Inc.
+7.4.0.309
+©1998-2007 Digidesign, A Division of Avid Technology, Inc.
+Digidesign Audio Engine
+DAE.dll
+English (United States)
+DAE.dll
+7.4

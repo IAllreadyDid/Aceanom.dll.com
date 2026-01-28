@@ -1,0 +1,8 @@
+Microsoft Corporation
+10.0.10240.16384 (th1.150709-1700)
+© Microsoft Corporation. All rights reserved.
+Microsoft D2D Library
+d2d1
+English (United States)
+d2d1
+10.0.10240.16384

@@ -1,0 +1,12 @@
+MediaTek Inc.
+1.1148.00
+[Official-Build]
+(Release Version)
+Copyright (C) 2006 MediaTek Inc. All rights reserved.
+BootROM and FlashTool Communication DLL.
+eboot.dll
+Chinese (Taiwan)
+eboot.dll
+1.1148.00
+[Official-Build]
+(Release Version)

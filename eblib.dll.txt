@@ -1,0 +1,8 @@
+COMPAL ELECTRONIC INC.
+1, 0, 51, 4
+Copyright (C) 2006-2012 Compal Electronic Inc.
+EBLib DLL
+EBLib
+Chinese (Taiwan)
+EBLib.DLL
+1, 0, 51, 4

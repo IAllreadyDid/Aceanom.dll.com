@@ -1,0 +1,8 @@
+GGS
+1,0,389,8a722cd4e608e0bbde6af6b09fa66e96a1c9cfcd
+Copyright(c) 2010 - 2012
+GameNet GameExecutor library
+GameExecutor
+Russian
+GameExecutor.dll
+1,0,389,8a722cd4e608e0bbde6af6b09fa66e96a1c9cfcd

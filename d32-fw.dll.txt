@@ -1,0 +1,8 @@
+Distinct Corporation
+3.4.6
+Copyright © 1991 - 1998 by Distinct Corporation
+FW DLL
+Firewall
+English (United States)
+D32-FW.DLL
+4.0

@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.1.7600.16385 (win7_rtm.090713-1255)
+© Microsoft Corporation. All rights reserved.
+Direct3D 10 Runtime
+D3D10.dll
+English (United States)
+D3D10.dll
+6.1.7600.16385

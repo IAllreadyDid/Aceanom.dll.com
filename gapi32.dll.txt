@@ -1,0 +1,8 @@
+Microsoft Corporation
+11.0.4123
+Copyright© Microsoft Corporation 1995-2002.  All rights reserved.
+Microsoft Mail Configuration Library
+GAPI32
+English (United States)
+GAPI32.DLL
+11.0.4123

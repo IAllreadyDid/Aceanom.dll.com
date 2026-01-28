@@ -1,0 +1,8 @@
+Black Hole Entertainment
+2, 1, 0, 0
+© 2010 Ubisoft Entertainment. All Rights Reserved. Might & Magic, Heroes, Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries. Developed by Black Hole Entertainment
+Might & Magic Heroes VI Orbit DLL
+Might & Magic Heroes VI
+English (United States)
+GameOrbit.dll
+2, 1, 0, 0

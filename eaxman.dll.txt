@@ -1,0 +1,8 @@
+Creative Labs Custom Engineering
+3, 0, 0, 0
+Copyright © 2000
+EAXMan
+EAXMan
+English (United States)
+EAXMan.dll
+3, 0, 0, 0

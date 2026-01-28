@@ -1,0 +1,8 @@
+Microsoft Corporation
+10.0.10240.16384 (th1.150709-1700)
+© Microsoft Corporation. All rights reserved.
+Direct3D 10 to Direct3D9 Translation Runtime
+D3D10Level9.dll
+English (United States)
+D3D10Level9.dll
+10.0.10240.16384

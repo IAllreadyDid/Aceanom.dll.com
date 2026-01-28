@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.0.6001.18000 (longhorn_rtm.080118-1840)
+© Microsoft Corporation. All rights reserved.
+Folder Redirection Snapin Extension
+Folder Redirection Snapin
+English (United States)
+fde.dll
+6.0.6001.18000

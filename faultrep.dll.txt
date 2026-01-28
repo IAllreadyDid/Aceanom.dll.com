@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.1.2600.5512 (xpsp.080413-2108)
+© Microsoft Corporation. All rights reserved.
+Windows Error Reporting
+FAULTREP.DLL
+English (United States)
+FAULTREP.DLL
+5.1.2600.5512

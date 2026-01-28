@@ -1,0 +1,8 @@
+SEIKO EPSON CORPORATION
+0. 3. 0. 4
+Copyright (C) SEIKO EPSON CORPORATION 2012. All rights reserved.
+E_JMAI11
+E_JMAI11
+Language Neutral
+E_JMAI11.DLL
+1.5x

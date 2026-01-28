@@ -1,0 +1,8 @@
+Christoph Husse
+1, 0, 0, 1
+Copyright 2008 – 2009 by Christoph Husse & licensed by Epic Games, Inc. for use in Unreal Engine. 
+EasyHook32
+EasyHook32
+English (United States)
+EasyHook32.dll
+2.5

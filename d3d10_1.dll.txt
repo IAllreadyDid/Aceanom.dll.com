@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.2.9200.16492 (win8_gdr_oobssr.130113-0015)
+© Microsoft Corporation. All rights reserved.
+Direct3D 10.1 Runtime
+D3D10_1.dll
+English (United States)
+D3D10_1.dll
+6.2.9200.16492
