@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.2.9200.16384 (win8_rtm.120725-1247)
+© Microsoft Corporation. All rights reserved.
+Microsoft (R) Contacts DLL
+WAB32.DLL
+English (United States)
+WAB32.DLL
+6.2.9200.16384

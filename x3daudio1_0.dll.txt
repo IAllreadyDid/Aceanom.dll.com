@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.11.519.0000 built by: mmbuild
+© Microsoft Corporation. All rights reserved.
+X3DAudio
+X3DAudio1_0.dll
+English (United States)
+X3DAudio1_0.dll
+9.11.519.0000

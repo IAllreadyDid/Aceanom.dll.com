@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.11.519.0000 built by: mmbuild
+© Microsoft Corporation. All rights reserved.
+XACT Engine API
+XactEngine2_0.dll
+English (United States)
+XactEngine2_0.dll
+9.11.519.0000

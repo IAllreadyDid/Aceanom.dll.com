@@ -1,0 +1,8 @@
+
+1, 0, 0, 12
+Copyright 2000-2003 Yahoo! Inc. All Rights Reserved.
+Yahoo! Audio Conferencing UI
+yacsui
+English (United States)
+yacsui.dll
+1, 0, 0, 12

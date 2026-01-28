@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.3.9600.16384 (winblue_rtm.130821-1623)
+© Microsoft Corporation. All rights reserved.
+Windows Sound Recorder
+WavDest
+English (United States)
+WavDest
+6.3.9600.16384

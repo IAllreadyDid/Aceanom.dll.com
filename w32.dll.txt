@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.1.2600.0 (XPClient.010817-1148)
+© Microsoft Corporation. All rights reserved.
+W32 Display Driver
+w32.dll
+Language Neutral
+w32.dll
+5.1.2600.0

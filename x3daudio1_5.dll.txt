@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.25 (DXSDK_NOV08.081027-0939)
+Copyright (c) Microsoft Corporation. All rights reserved.
+X3DAudio
+X3DAudio1_5.dll
+English (United States)
+X3DAudio1_5.dll
+9.25.1476.0

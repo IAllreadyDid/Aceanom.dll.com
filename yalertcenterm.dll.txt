@@ -1,0 +1,8 @@
+Yahoo! Inc.
+2008, 1, 2, 1
+(c) Yahoo! Inc.  All rights reserved.
+Yahoo! Alert Center
+YAlertCenterM.dll
+English (United States)
+YAlertCenterM.dll
+2, 0, 0, 1

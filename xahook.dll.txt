@@ -1,0 +1,8 @@
+Panicware, Inc.
+1, 0, 0, 1008
+Copyright (C) 2002
+XAHook Dynamic Link Library
+XAHook
+English (United States)
+XAHook.dll
+1, 0, 0, 1

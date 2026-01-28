@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.15.779.0000 (WGGT_OCT06.Release)
+© Microsoft Corporation. All rights reserved.
+X3DAudio (debug)
+X3DAudio1D_1.dll
+English (United States)
+X3DAudio1D_1.dll
+9.15.779.0000

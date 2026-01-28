@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.1.7600.16385 (win7_rtm.090713-1255)
+© Microsoft Corporation. All rights reserved.
+Microsoft (R) Contacts DLL
+WAB32res.DLL
+English (United States)
+WAB32res.DLL
+6.1.7600.16385

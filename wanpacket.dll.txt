@@ -1,0 +1,8 @@
+CACE Technologies
+4.1.0.902
+Copyright © 2005-2007 CACE Technologies. Copyright © 2003-2005 NetGroup, Politecnico di Torino.
+WinPcap low level NetMon wrapper library
+WanPacket.dll
+Language Neutral
+WanPacket.dll
+4.1.0.902

@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.26 (DXSDK_MAR09.090316-1354)
+Copyright (c) Microsoft Corporation. All rights reserved.
+3D Audio Library
+X3DAudio1_6.dll
+English (United States)
+X3DAudio1_6.dll
+9.26.1590.0

@@ -1,0 +1,8 @@
+Yahoo! Inc.
+2000, 10, 9, 1
+Copyright (C) Yahoo! Inc. 1999-2000
+Yahoo Graphics DLL
+Ygxadll
+English (United States)
+Ygxa_2.dll
+1, 0, 0, 0

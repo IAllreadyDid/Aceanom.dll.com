@@ -1,0 +1,8 @@
+Pervasive Software Inc.
+22.7.0.76
+Copyright (c) 1998 Pervasive Software Inc.  All Rights Reserved.
+Btrieve Interface Glue DLL
+w3btrv7
+English (United States)
+w3btrv7.dll
+22.7.0.76

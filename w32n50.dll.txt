@@ -1,0 +1,8 @@
+Printing Communications Assoc., Inc. (PCAUSA)
+5.00.13.49
+Copyright © 1997-2000 Printing Communications Assoc., Inc.
+WinDis 32 API & Platform Compatibility DLL
+W32N50
+English (United States)
+W32N50.dll
+5.00.13.49

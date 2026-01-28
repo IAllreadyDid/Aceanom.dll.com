@@ -1,0 +1,8 @@
+
+2.8.pxr4
+Copyright (C) 2009
+POSIX Threads for Win32
+w32pthreads
+English (United States)
+w32pthreads.v4
+2.8

@@ -1,0 +1,8 @@
+Yahoo! Inc.
+1, 0, 0, 50
+Copyright 2000-2007 Yahoo! Inc.  All Rights Reserved.
+Yahoo! Audio Conferencing Control
+yacscom.dll
+English (United States)
+yacscom.dll
+1, 0, 0, 50

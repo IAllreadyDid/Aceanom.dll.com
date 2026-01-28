@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.21.1148.0000 (WGGT_NOV07.Release)
+© Microsoft Corporation. All rights reserved.
+X3DAudio
+X3DAudio1_2.dll
+English (United States)
+X3DAudio1_2.dll
+9.21.1148.0000
