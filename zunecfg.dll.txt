@@ -1,0 +1,8 @@
+Microsoft Corporation
+4.8.2345.0 (ZUNE_DORADO_V4.8_RTM.110805-1156)
+© Microsoft Corporation. All rights reserved.
+Zune Configuration
+ConfigMgr.dll
+English (United States)
+ConfigMgr.dll
+4.8.2345.0

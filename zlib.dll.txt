@@ -1,0 +1,8 @@
+
+1.2.3.0
+(C) 1995-2003 Jean-loup Gailly & Mark Adler
+zlib data compression library
+zlib
+English (United States)
+zlib.dll
+

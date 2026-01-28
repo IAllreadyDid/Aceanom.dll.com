@@ -1,0 +1,8 @@
+
+1.2.5
+(C) 1995-2010 Jean-loup Gailly & Mark Adler
+zlib data compression and ZIP file I/O library
+zlib
+English (United States)
+zlib.dll
+

@@ -1,0 +1,8 @@
+Python Software Foundation
+2.4.2
+Copyright © 2001-2004 Python Software Foundation. Copyright © 2000 BeOpen.com. Copyright © 1995-2001 CNRI. Copyright © 1991-1995 SMC.
+Python Core
+Python DLL
+Language Neutral
+zpeng24.dll
+2.4.2
