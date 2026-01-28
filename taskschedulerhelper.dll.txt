@@ -1,0 +1,8 @@
+Auslogics
+6.4.0.0
+Copyright © 2008-2015 Auslogics Labs Pty Ltd
+Task Scheduler Helper
+taskschedulerhelper
+English (United States)
+taskschedulerhelper.dll
+6.x

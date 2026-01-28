@@ -1,0 +1,8 @@
+Uniloc USA Inc.
+1, 2, 2, 0
+Uniloc USA Inc. Copyright (C) 2008
+saAudit Dynamic Link Library
+saAudit
+English (United States)
+saAudit.dll
+1, 2, 2, 0

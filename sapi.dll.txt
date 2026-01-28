@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.3.16513.00 (winblue_gdr.130913-2141)
+© Microsoft Corporation. All rights reserved.
+Speech API
+sapi.dll
+English (United States)
+sapi.dll
+5.3.16513.00

@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.3.9600.16384 (winblue_rtm.130821-1623)
+© Microsoft Corporation. All rights reserved.
+Microsoft® Windows(TM) Telephony API Client DLL
+tapi32
+English (United States)
+TAPI32.DLL
+6.3.9600.16384

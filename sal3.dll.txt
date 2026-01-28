@@ -1,0 +1,8 @@
+Apache Software Foundation
+4.00.9714
+Copyright © 2012-2013 by Apache Software Foundation
+
+sal3
+German (Germany)
+sal3.dll
+

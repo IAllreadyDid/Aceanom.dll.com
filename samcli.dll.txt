@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.3.9600.17415 (winblue_r4.141028-1500)
+© Microsoft Corporation. All rights reserved.
+Security Accounts Manager Client DLL
+SAMCLI.DLL
+English (United States)
+SAMCLI.DLL
+6.3.9600.17415

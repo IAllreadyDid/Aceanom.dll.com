@@ -1,0 +1,8 @@
+Symantec Corporation
+24.0.0.0
+Copyright (C) Symantec Corporation 1992-1997
+Symantec Drive Status Library
+SYMSTAT
+English (United States)
+S32STAT.DLL
+24.0.0.0

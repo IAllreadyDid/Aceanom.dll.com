@@ -1,0 +1,8 @@
+ 
+1, 1, 8, 0
+Copyright © 2004
+S2emu
+S2emu C+NL
+Croatian
+s2emu.dll
+1, 1, 8, 0

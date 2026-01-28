@@ -1,0 +1,8 @@
+IObit
+7.0.0.311
+Copyright © 2013 IObit
+IObit TaskSchedule Dynamic Link Library
+
+English (United States)
+
+7.0

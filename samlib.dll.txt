@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.3.9600.17415 (winblue_r4.141028-1500)
+© Microsoft Corporation. All rights reserved.
+SAM Library DLL
+SAMLib.DLL
+English (United States)
+SAMLib.DLL
+6.3.9600.17415

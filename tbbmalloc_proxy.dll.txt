@@ -1,0 +1,8 @@
+Intel Corporation
+4, 1, 0, 0
+Copyright 2005-2012 Intel Corporation.  All Rights Reserved.
+Scalable Allocator library
+
+Language Neutral
+tbbmalloc.dll
+4, 1, 0, 0

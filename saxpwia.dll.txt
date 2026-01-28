@@ -1,0 +1,8 @@
+
+1,6,5,0
+
+WIA Scanner Driver (WIA Minidriver)
+WiaMinidriver
+English (United States)
+SaWIAXP.dll
+1,6,5,0
