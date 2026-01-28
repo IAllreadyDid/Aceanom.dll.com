@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.00.8988
+Copyright © 1987-2000 Microsoft Corp.
+Visual Basic Environment International Resources
+vb6ko.dll
+Korean
+
+6.00.8988

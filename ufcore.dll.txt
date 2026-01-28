@@ -1,0 +1,8 @@
+Sony Corporation
+1.2.0.15090
+Copyright 2009, 2010 Sony Corporation
+UFCore Dynamic Link Library
+UFCore
+Language Neutral
+UFCore.dll
+1.2.0.15090

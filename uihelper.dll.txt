@@ -1,0 +1,8 @@
+Microsoft Corporation
+7.0.6001.18000 (longhorn_rtm.080118-1840)
+© Microsoft Corporation. All rights reserved.
+IIS UIHelper Module
+uihelper.dll
+English (United States)
+uihelper.dll
+7.0.6001.18000

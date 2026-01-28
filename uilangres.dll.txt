@@ -1,0 +1,8 @@
+AVAST Software
+5, 0, 589, 0
+Copyright (c) 2010 AVAST Software
+UILangRes
+ui1033
+German (Germany)
+UILangRes
+5, 0, 0, 0

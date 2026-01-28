@@ -1,0 +1,8 @@
+Microsoft Corporation
+7.2.9600.16421 (winblue_gdr.131004-2100)
+© Microsoft Corporation. All rights reserved.
+Microsoft UI Automation Core
+UIAutomationCore.dll
+English (United States)
+UIAutomationCore.dll
+6.3.9600.16421

@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.00.8988
+Copyright © 1987-2000 Microsoft Corp.
+Ressources internationales de l'environnement Visual Basic
+vb6fr.dll
+French (France)
+
+6.00.8988

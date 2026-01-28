@@ -1,0 +1,8 @@
+Microsoft Corporation
+05.00.4319 (SP2)
+Copyright © 1987-1997 Microsoft Corp.
+Ressources internationales de l'environnement Visual Basic
+vb5fr.dll
+French (France)
+
+05.00.4319 (SP2)

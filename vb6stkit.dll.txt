@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.00.8450
+Copyright © 1987-1998 Microsoft Corp.
+Visual Basic Setup Toolkit Library DLL
+VB6STKIT.DLL
+English (United States)
+SETUPKIT.DLL
+6.00.8450

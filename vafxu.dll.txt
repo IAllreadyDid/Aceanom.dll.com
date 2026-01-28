@@ -1,0 +1,8 @@
+Pinnacle Systems, Inc.
+7.0.2135.0
+Copyright © 2004 Pinnacle Systems, Inc.
+VideoAudio Framework
+Video Compression Manager Interface
+English (United States)
+VAFXu.DLL
+7.0 Alpha

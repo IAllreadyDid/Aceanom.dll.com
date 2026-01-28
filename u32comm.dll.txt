@@ -1,0 +1,8 @@
+Ulead Systems, Inc.
+12.0.0.0
+Copyright (c) 1992-2005. Ulead Systems, Inc. All rights reserved.
+Error Handle
+U32COMM
+English (United States)
+U32COMM.DLL
+12.0.0.0

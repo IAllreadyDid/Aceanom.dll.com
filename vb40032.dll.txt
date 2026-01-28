@@ -1,0 +1,8 @@
+Microsoft Corporation
+4.00.2924
+Copyright © 1987-1995 Microsoft Corp.
+Visual Basic 4.0 runtime library
+VB40032.DLL
+English (United States)
+
+4.00.2924

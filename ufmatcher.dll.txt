@@ -1,0 +1,8 @@
+Suprema Inc.
+3, 0, 0, 8
+Copyright (C) 2007 Suprema Inc.
+UniFinger Engine 3.0 SDK Matcher Module Win32 DLL
+UFMatcher.dll
+Language Neutral
+UFMatcher.dll
+3, 0, 0, 8
