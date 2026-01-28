@@ -1,0 +1,8 @@
+Intel Corporation
+2, 1, 2009, 0201
+Copyright (C) 2006
+Threading Building Blocks library
+
+Language Neutral
+tbb.dll
+2.1.2009.0201

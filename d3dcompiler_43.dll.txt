@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.29.952.3111
+Copyright © Microsoft Corp. 1994-2007
+Direct3D HLSL Compiler
+d3dcompiler_43.dll
+English (United States)
+d3dcompiler_43.dll
+9.29.952.3111

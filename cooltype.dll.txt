@@ -1,0 +1,8 @@
+Adobe Systems Incorporated
+4.10.20
+© 1984-2002 Adobe Systems Incorporated
+CoolType Typography Engine
+CoolType
+English (United States)
+CoolType.dll
+4.10

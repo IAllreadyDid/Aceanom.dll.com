@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.0.6001.18000 (longhorn_rtm.080118-1840)
+© Microsoft Corporation. All rights reserved.
+Microsoft DirectX Graphics Infrastructure
+dxgi.dll
+English (United States)
+dxgi.dll
+6.0.6001.18000

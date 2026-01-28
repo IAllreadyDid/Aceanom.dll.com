@@ -1,0 +1,8 @@
+Microsoft Corporation
+10.00.20327.1
+© Microsoft Corporation.  All rights reserved.
+Microsoft® C Runtime Library
+msvcr100.dll
+English (United States)
+msvcr100.dll
+10.00.20327.1

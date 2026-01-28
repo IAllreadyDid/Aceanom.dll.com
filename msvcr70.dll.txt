@@ -1,0 +1,8 @@
+Microsoft Corporation
+7.00.9466.0
+© Microsoft Corporation.  All rights reserved.
+Microsoft® C Runtime Library
+MSVCR70.DLL
+English (United States)
+MSVCR70.DLL
+7.00.9466.0

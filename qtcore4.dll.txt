@@ -1,0 +1,8 @@
+Nokia Corporation and/or its subsidiary(-ies)
+4.4.3.0
+Copyright (C) 2008 Nokia Corporation and/or its subsidiary(-ies)
+C++ application development framework.
+
+English (United States)
+QtCore4.dll
+4.4.3.0

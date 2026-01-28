@@ -1,0 +1,8 @@
+Microsoft Corporation
+1.1.4322.573
+Copyright © Microsoft Corporation 1998-2002. All rights reserved.
+Microsoft .NET Runtime Execution Engine
+MSCOREE.DLL
+English (United States)
+mscoree.dll
+1.1.4322.573

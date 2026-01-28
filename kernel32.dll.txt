@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)
+© Microsoft Corporation. All rights reserved.
+Windows NT BASE API Client DLL
+kernel32
+English (United States)
+kernel32
+5.1.2600.2180

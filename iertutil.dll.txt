@@ -1,0 +1,8 @@
+Microsoft Corporation
+7.00.5450.4 (winmain(wmbla).060623-0309)
+© Microsoft Corporation. All rights reserved.
+Run time utility for Internet Explorer
+IeRtUtil.dll
+English (United States)
+IeRtUtil.dll
+7.00.5450.4

@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.29 (DXSDK_JUN10.100602-0421)
+Copyright (c) Microsoft Corporation. All rights reserved.
+Audio Effect Library
+XAPOFX1_5.dll
+English (United States)
+XAPOFX1_5.dll
+9.29.1962.0

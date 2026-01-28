@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.1.2600.0 (xpclient.010817-1148)
+© Microsoft Corporation. All rights reserved.
+Direct3D Retained Mode DLL
+d3drm.dll
+English (United States)
+d3drm.dll
+5.1.2600.0

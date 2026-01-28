@@ -1,0 +1,8 @@
+Inner Media, Inc.
+4.00.04
+Copyright © 1995 - 2000 by Inner Media, Inc.  All Rights Reserved.
+DynaZIP-32 Multi-Threading ZIP DLL
+DynaZIP dzip32 DLL
+English (United States)
+dzip32.dll
+4.00.04

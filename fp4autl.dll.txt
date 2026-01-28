@@ -1,0 +1,8 @@
+Microsoft Corporation
+4.0.2.7523
+Copyright © 1995-1999 Microsoft Corporation, All rights reserved.
+Microsoft FrontPage Utility DLL
+
+English (United States)
+FP30UTL.DLL
+4.0.2.7523

@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.00.8450
+Copyright © 1987-1998 Microsoft Corp.
+Microsoft Standard Data Formating Object DLL
+MSSTDFMT.DLL
+English (United States)
+
+6.00.8450

@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.26.952.2844
+Copyright © Microsoft Corp. 1994-2007
+Direct3D 9 Extensions
+D3DX9D.dll
+English (United States)
+D3DX9D.dll
+9.26.952.2844

@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.2.3790.120 (srv03_qfe.031205-1652)
+© Microsoft Corporation. All rights reserved.
+PostScript Printer Driver
+PSCRIPT5.DLL
+English (United States)
+PSCRIPT5.DLL
+5.2.3790.120

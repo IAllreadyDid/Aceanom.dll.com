@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.03.2600.2180 (xpsp_sp2_rtm.040803-2158)
+© Microsoft Corporation. All rights reserved.
+Microsoft DirectX for Visual Basic
+dx8vb
+English (United States)
+dx8vb.dll
+5.03.2600.2180

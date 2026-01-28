@@ -1,0 +1,8 @@
+Microsoft Corporation
+5.1.2600.2180 (xpsp_sp2_rtm.040803-2158)
+© Microsoft Corporation. All rights reserved.
+Wireless Zero Configuration Service
+wzcsvc.dll
+English (United States)
+wzcsvc.dll
+5.1.2600.2180

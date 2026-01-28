@@ -1,0 +1,8 @@
+Microsoft Corporation
+7.10.3052.4
+© Microsoft Corporation.  All rights reserved.
+Microsoft® C Runtime Library
+MSVCR71.DLL
+English (United States)
+MSVCR71.DLL
+7.10.3052.4

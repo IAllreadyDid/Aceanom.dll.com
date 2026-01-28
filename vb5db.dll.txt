@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.00.8169
+Copyright © 1987-1998 Microsoft Corp.
+Visual Basic ICursor Interface Library
+VB5DB.DLL"
+English (United States)
+
+6.00.8169

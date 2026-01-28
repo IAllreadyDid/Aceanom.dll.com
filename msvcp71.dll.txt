@@ -1,0 +1,8 @@
+﻿Microsoft Corporation
+7.10.3077.0
+© Microsoft Corporation.  All rights reserved.
+Microsoft® C++ Runtime Library
+MSVCP71.DLL
+English (United States)
+MSVCP71.DLL
+7.10.3077.0

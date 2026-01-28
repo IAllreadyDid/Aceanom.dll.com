@@ -1,0 +1,8 @@
+The GLib developer community
+2.4.2.0
+Copyright © 1995-1997 Peter Mattis, Spencer Kimball and Josh MacDonald. Modified by the GLib Team and others 1997-2000.
+GLib
+libglib-2.0-0
+English (United States)
+libglib-2.0-0.dll
+2.4.2

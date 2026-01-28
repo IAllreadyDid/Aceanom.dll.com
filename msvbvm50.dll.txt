@@ -1,0 +1,8 @@
+Microsoft Corporation
+05.02.8244 (SP2)
+Copyright © 1987-1997 Microsoft Corp.
+Visual Basic Virtual Machine
+MSVBVM50.DLL
+English (United States)
+
+05.02.8244 (SP2)

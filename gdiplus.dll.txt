@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.2.9200.16518 (win8_gdr.130201-1704)
+© Microsoft Corporation. All rights reserved.
+Microsoft GDI+
+gdiplus
+English (United States)
+gdiplus
+6.2.9200.16518

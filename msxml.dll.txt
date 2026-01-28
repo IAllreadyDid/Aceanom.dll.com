@@ -1,0 +1,8 @@
+Microsoft Corporation
+8.00.7002.0
+Copyright (C) Microsoft Corporation. 1981-2000
+XML OM for Win32
+MsXML.dll
+English (United States)
+MsXML.dll
+8.00.7002.0

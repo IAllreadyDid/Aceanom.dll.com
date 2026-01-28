@@ -1,0 +1,8 @@
+Microsoft Corporation
+10.00.20506.1
+© Microsoft Corporation.  All rights reserved.
+Microsoft® C Runtime Library
+msvcp100.dll
+English (United States)
+msvcp100.dll
+10.00.20506.1

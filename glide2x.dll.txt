@@ -1,0 +1,8 @@
+3Dfx Interactive, Inc.
+2.56.00.0456
+Copyright © 3Dfx Interactive, Inc. 1997
+3Dfx Interactive, Inc. Glide DLL
+glide2x.dll
+English (United States)
+glide2x.dll
+2.56.00.0456

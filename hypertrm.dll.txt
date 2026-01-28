@@ -1,0 +1,8 @@
+Hilgraeve, Inc.
+5.1.2600.2180
+Copyright © Hilgraeve, Inc. 2001
+HyperTerminal Applet Library
+HyperTrm
+English (United States)
+HyperTrm.dll
+5.1.2600.2180

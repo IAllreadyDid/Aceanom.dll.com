@@ -1,0 +1,8 @@
+Microsoft Corporation
+6.1.7601.17514 (win7sp1_rtm.101119-1850)
+© Microsoft Corporation. All rights reserved.
+Hardware Abstraction Layer DLL
+halmacpi.dll
+English (United States)
+halmacpi.dll
+6.1.7601.17514

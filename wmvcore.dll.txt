@@ -1,0 +1,8 @@
+Microsoft Corporation
+12.0.7601.17514 (win7sp1_rtm.101119-1850)
+© Microsoft Corporation. All rights reserved.
+Windows Media Playback/Authoring DLL
+wmvcore.dll
+English (United States)
+wmvcore.dll
+12.0.7601.17514

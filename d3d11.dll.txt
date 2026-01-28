@@ -1,0 +1,8 @@
+Microsoft Corporation
+7.0.6002.18107 (vistasp2_gdr_win7ip_dgt(wmbla).090924-1550)
+© Microsoft Corporation. All rights reserved.
+Direct3D 11 Runtime
+D3D11.dll
+English (United States)
+D3D11.dll
+7.0.6002.18107

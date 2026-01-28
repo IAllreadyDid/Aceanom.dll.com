@@ -1,0 +1,8 @@
+Microsoft Corporation
+9.15.779.0000
+© Microsoft Corporation. All rights reserved.
+Microsoft Common Controller API
+XInput
+English (United States)
+XInput1_3.dll
+9.15.779.0000
